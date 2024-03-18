@@ -1,0 +1,9 @@
+playwright
+pytest-playwright
+pytest
+pytest-cov
+pytest-xdist
+pytest-html
+pytest-logger
+pytest-base-url
+pandas

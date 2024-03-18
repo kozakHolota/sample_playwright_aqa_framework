@@ -1,0 +1,6 @@
+username;password;expected_text
+test;test;'WEINMANN QA Task'
+test;pupa;'Invalid credentials. Username: test, Password: pupa'
+pupa;test;'Invalid credentials. Username: pupa, Password: test'
+;test;'You must provide a username (test) to log in'
+test;;'You must provide a password (test) to log in'

@@ -1,0 +1,4 @@
+first_name;last_name;twitter;avatar_url;notes
+John;Doe;@johndoe;http://example.com/johndoe.jpg;This is a note
+Jane;;@janedoe;http://example.com/janedoe.jpg;This is another note
+;Doe;@janedoe;http://example.com/janedoe.jpg;This is another note

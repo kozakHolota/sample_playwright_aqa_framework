@@ -14,7 +14,7 @@ You must have the following installed:
 1. Clone the repository
 
    ```
-   git clone <repository_link>
+   git clone https://github.com/kozakHolota/sample_playwright_aqa_framework.git
    ```
 
 2. Go to the project directory

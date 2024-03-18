@@ -66,6 +66,8 @@ Test report will be generated in `reports/` directory.
 Screenshots from test failures will be stored in `test_results/` directory. 
 Sample report can be found in `reports/sample_report.html`.
 
+**Note**: You shouldn't execute the web server to test while it is executed automatically by AQA Framework.
+
 ## Deployment
 To deploy this project run:
 ```bash
